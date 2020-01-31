@@ -1,6 +1,8 @@
 
 # NocNoc
 
+### Official links
+[Discord](https://discord.gg/QweJfKm)
 
 ### NocNoc.conf file info
 Run the wallet once then close it and go to %APPDATA%\roaming\nocnocqt (`On windows`). Open a text editor like (notepad++), Create a file called NocNoc.conf if one does not exist if it exists then paste this in to the conf file,
